@@ -14,7 +14,6 @@ class Dog
     @@all.clear
   end
 end
-
 Dog.new("Pluto")
 Dog.new("Fido")
 Dog.new("Maddy")
